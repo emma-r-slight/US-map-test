@@ -24,6 +24,6 @@
   "homepage": "https://github.com/emma-r-slight/US-map-test#readme",
   "dependencies": {},
   "devDependencies": {
-    "browser-sync": "^2.26.13"
+    "browser-sync": "^2.27.10"
   }
 }
